@@ -1,0 +1,13 @@
+<page xmlns="http://schemas.nativescript.org/tns.xsd" actionBarHidden="true" loaded="onPageLoad">
+	<scroll-view>
+		<stack-layout>
+			
+			<Label text="{{ icon }}" class="icon" textWrap="true"/>
+			<Label text="{{ temperature + '°C' }}" cssClass="temperature"/>
+			<Label text="{{ city + ',' + country }}" cssClass="location"/>
+			<Label text="{{ weatherType }}" cssClass="weatherType"/>
+			<text-field returnKeyType="done" returnPress="{{ getWeather }}" autocorrect="false" autocapitalizationType="none" id="searchedCity" hint="Ciudad" text="{{ searchedCity }}" class="input" />
+
+		</stack-layout>
+	</scroll-view>
+</page>

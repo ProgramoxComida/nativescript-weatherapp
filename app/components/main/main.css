@@ -1,0 +1,27 @@
+.temperature{
+	font-size: 62;
+	font-weight: "100";
+	margin: 0;
+	horizontal-align: center;
+}
+.location {
+	font-size: 14;
+	font-weight: "100";
+	margin-bottom: 20;
+	horizontal-align: center;
+}
+
+.weatherType {
+	font-size: 34;
+	font-weight: "500";
+	horizontal-align: center;
+}
+
+.input {
+	border-width: 1;
+	border-color: #666;
+	height: 45;
+	margin: 20;
+	padding: 10;
+	border-radius: 5;
+}

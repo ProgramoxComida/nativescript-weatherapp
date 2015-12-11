@@ -1,0 +1,12 @@
+{
+	"nativescript": {
+		"id": "net.mishima.app.weather",
+		"tns-android": {
+			"version": "1.5.0"
+		}
+	},
+	"dependencies": {
+		"tns-core-modules": "1.5.0"
+	},
+	"devDependencies": {}
+}

@@ -1,0 +1,4 @@
+<page xmlns="http://schemas.nativescript.org/tns.xsd" actionBarHidden="true" loaded="loaded">
+	<GridLayout id="grid">
+	</GridLayout>
+</page>
