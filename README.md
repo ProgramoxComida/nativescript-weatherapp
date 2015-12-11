@@ -3,7 +3,7 @@ NativeScript using Open Weather API - http://openweathermap.org/api
 
 ### Preview
 
-![nativescript-weatherapp](https://appetize.io/embed/3bbh5haqgfn46f5hx4x2qfgmxc?device=nexus5&scale=75&orientation=portrait&osVersion=5.1)
+Demo: [Android](https://appetize.io/embed/3bbh5haqgfn46f5hx4x2qfgmxc?device=nexus5&scale=75&orientation=portrait&osVersion=5.1)
 
 ### Instalation
 
